@@ -1,6 +1,4 @@
-# Title
-
-Abstract:xxx
+# LumaSol Archive
 
 ## Equipe Information
 
@@ -13,25 +11,6 @@ Abstract:xxx
 - (Max) Spout Package
 - (Arduino) Micro OSC
 -
-
-### Tested Platform
-
-- software
-  ```
-  OS: Windows 10
-  Python: 3.8.5 (anaconda)
-  ```
-- hardware
-  ```
-  CPU: Intel
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-
-### Hyper parameters
-
-```
-
-```
 
 ## References
 
