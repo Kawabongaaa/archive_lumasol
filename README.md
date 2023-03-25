@@ -5,7 +5,6 @@
 - Title: `LumaSol`
 - Authors: `Michael simard`,`Skayla-Nelie Stimphil-Labranche`,`Eloise Gagne`,`Penelope Morrison`
 - Website: [Website](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
--
 
 ## Install & Dependence
 
