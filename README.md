@@ -4,18 +4,23 @@
 
 - Title: 'LumaSol'
 - Authors: `Michael simard`,`Skayla-Nelie Stimphil-Labranche`,`Eloise Gagne`,`Penelope Morrison`
-- Video: [video position]()
+- Website: [Website](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
+-
 
 ## Install & Dependence
 
--Max 8
--- Spout Package
+- Max 8
+  - Spout Package
 
-- (Arduino) Micro OSC
--
+---
+
+- Arduino
+  - Micro OSC
+
+---
 
 ## References
 
-- [paper-1]()
+- [Project Github]()
 
 ## License
