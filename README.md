@@ -4,7 +4,7 @@
 
 - Title: `LumaSol`
 - Authors: `Michael simard`,`Skayla-Nelie Stimphil-Labranche`,`Eloise Gagne`,`Penelope Morrison`
-- Website: [Website](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
+- Website: [Lumasol.com](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ## Install & Dependence
 
@@ -23,3 +23,5 @@
 ## References
 
 - [Project Github](https://github.com/Kawabongaaa/LumaSol)
+
+## For every files, check in the release section. [Release link](https://github.com/Kawabongaaa/archive_lumasol/releases/tag/V1)
