@@ -8,7 +8,9 @@
 
 ## Install & Dependence
 
-- (Max) Spout Package
+-Max 8
+-- Spout Package
+
 - (Arduino) Micro OSC
 -
 
